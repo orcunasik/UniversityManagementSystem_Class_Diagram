@@ -1,0 +1,2 @@
+# UniversityManagementSystem_Class_Diagram
+PatikaDev_UMS_Class_Diagram
